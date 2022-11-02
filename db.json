@@ -4,7 +4,9 @@
       "id": 1,
       "title": "hello",
       "content":"content",
-      "creator":"Danilo",
+      "creator":{
+        "name":"Danilo"
+      },
       "comments":[
       {
         "id":1,
