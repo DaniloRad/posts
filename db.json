@@ -5,9 +5,9 @@
       "title": "hello",
       "content":"content",
       "comments":[
-      "id":1,
+      {"id":1,
       "creator":"Danilo",
-      "content":"Sadrzaj komentara"
+      "content":"Sadrzaj komentara"}
       ]
     }
   ]
