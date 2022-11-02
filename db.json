@@ -4,10 +4,13 @@
       "id": 1,
       "title": "hello",
       "content":"content",
-      "comments":[
-      {"id":1,
       "creator":"Danilo",
-      "content":"Sadrzaj komentara"}
+      "comments":[
+      {
+        "id":1,
+        "creator":"Danilo",
+        "content":"Sadrzaj komentara"
+      }
       ]
     }
   ]
